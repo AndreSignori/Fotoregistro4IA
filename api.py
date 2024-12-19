@@ -14,18 +14,16 @@ students = [
     {"id": 10, "cognome": "Galante", "nome": "Santiago", "data_nascita": "26/06/2007", "paese_residenza": "Bergamo", "mezzo_trasporto": ["Piedi"], "tempo_traversata": "20 minuti", "hobby": ["Calcio", "musica"]},
     {"id": 11, "cognome": "Ghazi", "nome": "Youssef", "data_nascita": "15/02/2007", "paese_residenza": "Bergamo", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "40 minuti", "hobby": ["Calcio", "videogiochi"]},
     {"id": 12, "cognome": "Ghisalberti", "nome": "Riccardo", "data_nascita": "25/07/2007", "paese_residenza": "Zogno", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "45 minuti", "hobby": ["Musica", "Videogiochi", "Film"]},
-    {"id": 13, "cognome": "Ghislanzoni", "nome": "Antonio", "data_nascita": "23/10/2007", "paese_residenza": "Osio Sotto", "mezzo_trasporto": ["Moto", "Pullman"], "tempo_traversata": "25-50 minuti", "hobby": ["Musica", "Videogiochi", "Motori"]},
-    {"id": 14, "cognome": "Griffini", "nome": "Matteo", "data_nascita": "08/06/2007", "paese_residenza": "Sotto il Monte", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "35-45 minuti", "hobby": ["Videogiochi"]},
-    {"id": 15, "cognome": "Lattanzi", "nome": "Stefano", "data_nascita": "15/11/2007", "paese_residenza": "Ranica", "mezzo_trasporto": ["tram"], "tempo_traversata": "20 minuti", "hobby": ["film", "basket", "giochi"]},
-    {"id": 16, "cognome": "Lyesyev", "nome": "Antonio", "data_nascita": "11/10/2006", "paese_residenza": "Alzano Lombardo", "mezzo_trasporto": ["Tram", "Moto"], "tempo_traversata": "20 minuti", "hobby": ["Musica", "Videogiochi"]},
-    {"id": 17, "cognome": "Palazzi", "nome": "Massimo", "data_nascita": "14/03/2007", "paese_residenza": "Oltre il Colle", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "90 minuti", "hobby": ["Sport", "Caccia", "Musica"]},
-    {"id": 18, "cognome": "Ravazzi", "nome": "Myrko", "data_nascita": "10/09/2007", "paese_residenza": "Verdello", "mezzo_trasporto": ["Treno"], "tempo_traversata": "8-12 minuti", "hobby": ["Informatica", "musica"]},
-    {"id": 19, "cognome": "Secchi", "nome": "Lorenzo", "data_nascita": "14/06/2007", "paese_residenza": "Brembate Sotto", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "45-50 minuti", "hobby": ["Palestra", "Videogiochi"]},
-    {"id": 20, "cognome": "Sigismondi", "nome": "Gabriele", "data_nascita": "14/12/2007", "paese_residenza": "Petosino", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "25-30 minuti", "hobby": ["Calcio", "videogiochi", "sport"]},
-    {"id": 21, "cognome": "Signori", "nome": "Andrea", "data_nascita": "15/10/2007", "paese_residenza": "Bergamo", "mezzo_trasporto": ["piedi"], "tempo_traversata": "30 minuti", "hobby": ["Sport", "musica", "cucina"]},
-    {"id": 22, "cognome": "Tassetti", "nome": "Davide", "data_nascita": "30/11/2007", "paese_residenza": "Sorisole", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "30 minuti", "hobby": ["videogiochi", "calcio", "cucina"]},
-    {"id": 23, "cognome": "Timis", "nome": "Alin Ioan", "data_nascita": "29/12/2007", "paese_residenza": "Calusco D'Adda", "mezzo_trasporto": ["Treno"], "tempo_traversata": "25-30 minuti", "hobby": ["videogiochi"]},
-    {"id": 24, "cognome": "Vitali", "nome": "Matteo", "data_nascita": "25/05/2007", "paese_residenza": "Zogno", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "45-60 minuti", "hobby": ["League of Legends"]}
+    {"id": 13, "cognome": "Griffini", "nome": "Matteo", "data_nascita": "08/06/2007", "paese_residenza": "Sotto il Monte", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "35-45 minuti", "hobby": ["Videogiochi"]},
+    {"id": 14, "cognome": "Lyesyev", "nome": "Antonio", "data_nascita": "11/10/2006", "paese_residenza": "Alzano Lombardo", "mezzo_trasporto": ["Tram", "Moto"], "tempo_traversata": "20 minuti", "hobby": ["Musica", "Videogiochi"]},
+    {"id": 15, "cognome": "Palazzi", "nome": "Massimo", "data_nascita": "14/03/2007", "paese_residenza": "Oltre il Colle", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "90 minuti", "hobby": ["Sport", "Caccia", "Musica"]},
+    {"id": 16, "cognome": "Ravazzi", "nome": "Myrko", "data_nascita": "10/09/2007", "paese_residenza": "Verdello", "mezzo_trasporto": ["Treno"], "tempo_traversata": "8-12 minuti", "hobby": ["Informatica", "musica"]},
+    {"id": 17, "cognome": "Secchi", "nome": "Lorenzo", "data_nascita": "14/06/2007", "paese_residenza": "Brembate Sotto", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "45-50 minuti", "hobby": ["Palestra", "Videogiochi"]},
+    {"id": 18, "cognome": "Sigismondi", "nome": "Gabriele", "data_nascita": "14/12/2007", "paese_residenza": "Petosino", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "25-30 minuti", "hobby": ["Calcio", "videogiochi", "sport"]},
+    {"id": 19, "cognome": "Signori", "nome": "Andrea", "data_nascita": "15/10/2007", "paese_residenza": "Bergamo", "mezzo_trasporto": ["piedi"], "tempo_traversata": "30 minuti", "hobby": ["Sport", "musica", "cucina"]},
+    {"id": 20, "cognome": "Tassetti", "nome": "Davide", "data_nascita": "30/11/2007", "paese_residenza": "Sorisole", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "30 minuti", "hobby": ["videogiochi", "calcio", "cucina"]},
+    {"id": 21, "cognome": "Timis", "nome": "Alin Ioan", "data_nascita": "29/12/2007", "paese_residenza": "Calusco D'Adda", "mezzo_trasporto": ["Treno"], "tempo_traversata": "25-30 minuti", "hobby": ["videogiochi"]},
+    {"id": 22, "cognome": "Vitali", "nome": "Matteo", "data_nascita": "25/05/2007", "paese_residenza": "Zogno", "mezzo_trasporto": ["Pullman"], "tempo_traversata": "45-60 minuti", "hobby": ["League of Legends"]}
 ]
 
 @app.route('/items', methods=['GET'])
